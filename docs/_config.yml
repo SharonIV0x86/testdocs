@@ -6,6 +6,9 @@ title: Appledore Documentation
 logo: "/assets/logo.png"
 docs_dir: docs
 
+plugins:
+  - jekyll-toc
+
 just_the_docs:
   navigation:
     - title: "Documentation"

@@ -1,10 +1,15 @@
 title: Appledore Documentation
 theme: minima
-remote_theme: pages-themes/tactile
+remote_theme: pmarsceill/just-the-docs
+
 
 title: Appledore Documentation
 logo: "/assets/logo.png"
 docs_dir: docs
+
+extra_css:
+  - "/assets/css/custom.css"
+
 
 plugins:
   - jekyll-toc

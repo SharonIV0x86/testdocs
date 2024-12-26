@@ -4,6 +4,7 @@
 }
 
 #side-bar {
+  width: 10px;
   margin-left: 10px !important;  /* Adjust this value to reduce the sidebar's margin */
 }
 

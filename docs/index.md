@@ -5,7 +5,7 @@
 - [Architecture](architecture.md)
 - [Assertions](assertions/assertions.md)
 - [Binaries](binary_system/api.md)
-- [Binary Compatibility](binary_system/binary-compatibility.md)
+- [Binary Compatibility](binary_system/)
 - [Build-Systems](build-systems.md)
 
 

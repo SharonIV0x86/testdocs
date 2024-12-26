@@ -1,6 +1,6 @@
 title: Appledore Documentation
 theme: minima
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/slate
 
 title: Appledore Documentation
 logo: "/assets/logo.png"

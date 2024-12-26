@@ -1,0 +1,16 @@
+title: Appledore Documentation
+theme: minima
+remote_theme: pmarsceill/just-the-docs
+
+title: Appledore Documentation
+logo: "/assets/logo.png"
+docs_dir: docs
+
+just_the_docs:
+  navigation:
+    - title: "Documentation"
+      children:
+        - title: "Assertions"
+          url: "/assertions"
+        - title: "Binary System"
+          url: "/binary_system"

@@ -1,9 +1,18 @@
 /* Reduce the sidebar margin */
-.main-content {
-    margin-left: 10px;  /* Adjust this value to your preference */
+#main {
+  margin-left: 10px !important;  /* Adjust this value to your preference */
+}
+
+#side-bar {
+  margin-left: 10px !important;  /* Adjust this value to reduce the sidebar's margin */
+}
+
+@media (min-width: 992px) {
+  /* Apply changes only for larger screens (desktops) */
+  .content-wrapper {
+    margin-left: 0px !important;  /* Adjust this value for the content */
   }
-  
-  .side-bar {
-    margin-left: 10px;  /* Adjust this value to reduce the sidebar's margin */
+  #side-bar {
+    margin-left: 0px !important;  /* Adjust this value for the sidebar */
   }
-  
+}

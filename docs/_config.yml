@@ -10,6 +10,22 @@ docs_dir: docs
 extra_css:
   - "/assets/custom.css"
 
+just_the_docs:
+  show_breadcrumbs: true
+
+just_the_docs:
+  navigation:
+    - title: "Getting Started"
+      children:
+        - title: "Installation"
+          url: "/getting-started/installation"
+    - title: "Features"
+      children:
+        - title: "Assertions"
+          url: "/features/assertions"
+        - title: "Binary System"
+          url: "/features/binary_system"
+
 
 plugins:
   - jekyll-toc

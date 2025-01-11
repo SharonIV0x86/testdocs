@@ -10,11 +10,18 @@
 }
 
 /* Example CSS for a modern font and colors */
+/* Adjust the color of normal text */
 body {
-    font-family: 'Inter', sans-serif;
-    color: #333;
-    background-color: #f9f9f9;
+    font-family: 'Inter', sans-serif; /* Keep your modern font */
+    color: #4A4A4A; /* Replace #4A4A4A with your preferred text color */
+    background-color: #f9f9f9; /* Optional: Adjust the background if needed */
 }
+
+/* Optional: Style for headings (if you want to differentiate them) */
+h1, h2, h3, h4, h5, h6 {
+    color: #2C3E50; /* Replace with your preferred heading color */
+}
+
 
 a {
     color: #0073e6;

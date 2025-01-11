@@ -10,6 +10,18 @@
 
 
 Feel free and try to nagivate through them.
+<code>
+struct DirectedG
+    {
+    };
+    struct UndirectedG
+    {
+    };
+    struct UnweightedG
+    {
+    };
+    class GraphVertex
+</code>
 ```cpp
 #pragma once
 

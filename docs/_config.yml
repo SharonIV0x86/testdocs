@@ -26,6 +26,7 @@ just_the_docs:
         - title: "Binary System"
           url: "/features/binary_system"
 
+highlighter: rouge
 
 plugins:
   - jekyll-toc

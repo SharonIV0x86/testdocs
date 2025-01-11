@@ -1,4 +1,4 @@
-How to use wxMSW binaries              {#plat_msw_binaries}
+How to use wxMSW binaries            
 =========================
 
 [TOC]

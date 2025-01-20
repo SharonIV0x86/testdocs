@@ -7,7 +7,7 @@
 - [Binaries](binary_system/api.md)
 - [Binary Compatibility](binary_system/)
 - [Build-Systems](build-systems.md)
-
+- [GraphMatrix.hpp Structure](./lib-structure/GraphMatrix.md)
 
 Feel free and try to nagivate through them.
 <code>

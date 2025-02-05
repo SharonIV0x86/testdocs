@@ -1,4 +1,4 @@
-# Welcome to test website
+# Welcome to Appledore Documentation
 
 ## Table of contents
 

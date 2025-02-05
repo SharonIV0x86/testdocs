@@ -1,4 +1,5 @@
-# Components of GraphMatrix.hpp
+# Table of contents
+
 1. [Setting up Appledore](#1-setting-up-appledore-for-development)
 2. [Building Example](#2-building-examples)
 3. [Running Tests](#3-running-tests)

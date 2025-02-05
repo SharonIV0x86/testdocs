@@ -1,3 +1,9 @@
+# Components of GraphMatrix.hpp
+1. [Setting up Appledore](#1-setting-up-appledore-for-development)
+2. [Building Example](#2-building-examples)
+3. [Running Tests](#3-running-tests)
+
+
 # 1. Setting Up **Appledore** for Development  
 
 ## 1.1 Fork the Repository  

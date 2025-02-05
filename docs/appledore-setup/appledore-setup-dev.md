@@ -100,5 +100,3 @@ Once compiled, you can specify which component to test. For example, to run test
 Here, the `graph-matrix` flag indicates the component under test.
 
 Always ensure all tests pass before submitting your contributions.
-
-# 4. Writing Tests
